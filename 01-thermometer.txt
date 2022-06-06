@@ -1,0 +1,19 @@
+Judul : Temperatur
+
+Implementasi:
+
+C=Tipe suhu
+N=Besar suhu
+
+BEGIN
+INPUT suhu
+IF C = celcius THEN
+DISPLAY N + "Celcius"
+ELSE IF C = fahreheit THEN
+DISPLAY (N-32)*5/9 + "celcius"
+ELSE IF C = kelvin THEN
+DISPLAY N-273.15 + "celcius"
+ELSE
+DISPLAY "Nothing"
+END
+

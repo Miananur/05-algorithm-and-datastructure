@@ -1,0 +1,14 @@
+Judul : pembulatan nilai akhir siswa
+Deklarasi :
+pembulatan kelipatan 5 = jarak nilai dengan pembulatan <3
+tidak dapat pembulatan = nilai <68
+
+Deskripsi :
+if ( n>83 && n<=85 ){
+print 85
+if ( n>73 && n<=75 ){
+print 75
+if ( n>65 && n<68 ){
+print 65
+
+END

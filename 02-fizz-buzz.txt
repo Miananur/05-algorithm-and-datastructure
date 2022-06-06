@@ -1,0 +1,11 @@
+input n=20
+
+IF n/3=bilangan bulat THEN 
+DISPLAY "Fizz"
+IF ELSE n/5=bilangan bulat THEN
+DISPLAY "Buzz"
+IF ELSE n/3=bilangan bulat, n/5=bilangan bulat THEN
+DISPLAY "FizzBuzz"
+ELSE
+DISPLAY n
+END

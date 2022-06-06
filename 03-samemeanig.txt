@@ -1,0 +1,11 @@
+Judul : String palindrome
+
+Deklarasi :
+   i = i
+
+Deskripsi :
+   if i = i
+     print "TRUE"
+   else if i ? i
+     print "FALSE
+END
